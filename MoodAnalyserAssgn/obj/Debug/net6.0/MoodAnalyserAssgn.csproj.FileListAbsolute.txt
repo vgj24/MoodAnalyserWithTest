@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\MoodAnalyserAssgn.exe
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\MoodAnalyserAssgn.deps.json
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\MoodAnalyserAssgn.runtimeconfig.json
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\MoodAnalyserAssgn.dll
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\ref\MoodAnalyserAssgn.dll
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\bin\Debug\net6.0\MoodAnalyserAssgn.pdb
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.dll
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\ref\MoodAnalyserAssgn.dll
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.pdb
+C:\Users\vgj24\source\repos\MoodAnalyserAssgn\obj\Debug\net6.0\MoodAnalyserAssgn.genruntimeconfig.cache
