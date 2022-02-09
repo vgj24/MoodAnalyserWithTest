@@ -21,5 +21,19 @@ namespace MoodAnalyserAssgnTest
             string result = obj.AnalyseMood();
             Assert.AreEqual("HAPPY", result);
         }
+        [TestMethod]
+        public void GivenMood_IAmInSadMood()
+        {
+            MoodAnalyser obj = new MoodAnalyser("I am in SAD mood");
+            string result = obj.AnalyseMood();
+            Assert.AreEqual("SAD", result);
+        }
+        [TestMethod]
+        public void GivenMood_IAmInHAPPYMood()
+        {
+            MoodAnalyser obj = new MoodAnalyser("I am in HAPPY mood");
+            string result = obj.AnalyseMood();
+            Assert.AreEqual("HAPPY", result);
+        }
     }
 }
