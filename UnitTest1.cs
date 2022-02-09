@@ -11,7 +11,7 @@ namespace MoodAnalyserAssgnTest
         {
             MoodAnalyser obj = new MoodAnalyser("SAD");
             string result = obj.AnalyseMood();
-            Assert.AreEqual("SAD",result);
+            Assert.AreEqual("SAD", result);
         }
 
         [TestMethod]
@@ -41,6 +41,13 @@ namespace MoodAnalyserAssgnTest
             MoodAnalyser obj = new MoodAnalyser("null");
             string result = obj.AnalyseMood();
             Assert.AreEqual("HAPPY", result);
+        }
+        [TestMethod]
+        [ExpectedException(typeof(MoodAnalyserCustomException))]
+        public void GivenMoodNull_ShouldThrowException()
+        {
+            MoodAnalyser obj = new MoodAnalyser(null);
+            string result = obj.AnalyseMood();
 
         }
     }
